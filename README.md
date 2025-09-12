@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Jully A.I Desktop Assistant
-
-Jully A.I is a simple voice-activated desktop assistant built with Python. It can recognize your speech, respond with voice, and open popular websites like YouTube, Google, and Wikipedia on your command.
 # Jolly A.I Desktop Assistant
 
 Jolly A.I is a simple voice-activated desktop assistant built with Python. It can recognize your speech, respond with voice, open popular websites, play music, launch apps, and answer questions using AI.
@@ -60,5 +56,6 @@ You can add more sites, apps, or commands by editing the `sites` and `apps` list
 This project is for educational purposes only.
 
 ---
+
 
 **WORK IN PROGRESS**
