@@ -39,7 +39,7 @@ if __name__ == '__main__':
         
         # todo: add specific music
         if "open music" in query.lower():
-            music_path = r"I:\Documents\VS Code\Projects\AIAssitant\music.mp3"
+            music_path = r"dir"
             if os.path.exists(music_path):
                 os.startfile(music_path)
         
